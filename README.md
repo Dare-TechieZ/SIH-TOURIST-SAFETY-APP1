@@ -1,6 +1,7 @@
 SIH-TOURIST-SAFETY-APP1
 
 Core Features:
+
 Tourist mobile app with digital ID onboarding, safety dashboard, and panic button
 
 Authority dashboard with live location tracking and incident management
@@ -16,6 +17,7 @@ IoT wearable integration interface
 Emergency response workflow with auto e-FIR generation
 
 Design Elements:
+
 Clean, friendly UI with accessibility features and high contrast ratios
 
 Government branding colors (deep blue, orange, green) for authority screens
