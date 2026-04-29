@@ -88,31 +88,6 @@ cd SIH-TOURIST-SAFETY-APP1
 
 ---
 
-## 🎥 Demo
-
-👉 Add your live demo link here  
-Example:
-
-https://your-demo-link.com
-
-
----
-
-## 📸 Screenshots
-
-> Add screenshots inside an `assets/screenshots/` folder
-
-### 🔹 Home Page
-![Home](assets/screenshots/home.png)
-
-### 🔹 Dashboard
-![Dashboard](assets/screenshots/dashboard.png)
-
-### 🔹 Alerts System
-![Alerts](assets/screenshots/alerts.png)
-
----
-
 ## 🧠 How It Works
 
 - User location is tracked (simulated or real)  
