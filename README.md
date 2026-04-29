@@ -56,28 +56,36 @@ A centralized platform that:
 
 ## 📂 Project Structure
 
-
 SIH-TOURIST-SAFETY-APP1/
 
-│── index.html
+├── .bolt/
 
-│── style.css
+├── src/
 
-│── script.js
+├── .gitignore
 
-│── assets/
+├── README.md
 
-│ ├── images/
+├── index.html
 
-│ └── icons/
+├── package.json
 
-│── pages/
+├── package-lock.json
 
-│ ├── dashboard.html
+├── vite.config.ts
 
-│ ├── alerts.html
+├── tailwind.config.js
 
-│ └── contact.html
+├── postcss.config.js
+
+├── eslint.config.js
+
+├── tsconfig.json
+
+├── tsconfig.app.json
+
+└── tsconfig.node.json
+
 
 
 ---
