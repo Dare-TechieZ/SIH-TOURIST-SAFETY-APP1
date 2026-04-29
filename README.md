@@ -58,15 +58,25 @@ A centralized platform that:
 
 
 SIH-TOURIST-SAFETY-APP1/
+
 │── index.html
+
 │── style.css
+
 │── script.js
+
 │── assets/
+
 │ ├── images/
+
 │ └── icons/
+
 │── pages/
+
 │ ├── dashboard.html
+
 │ ├── alerts.html
+
 │ └── contact.html
 
 
