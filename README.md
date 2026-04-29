@@ -173,7 +173,7 @@ This project is open-source and available under the MIT License.
 
 ## 👩‍💻 Author
 
-Developed by **Dare-TechieZ Team**
+Developed by **Team SafarSync**
 
 ---
 
